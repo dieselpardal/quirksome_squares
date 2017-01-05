@@ -18,10 +18,12 @@ Output
 ------
 The output is a text le consisting of lines containing the quirksome numbers (ordered according to the input numbers and for each input number in increasing order).
 Warning: Please note that the number of digits in the output is equal to the number in the corre- sponding input line : leading zeroes may not be suppressed.
-Sample Input
+
+###Sample Input
 
 2
-Sample Output
+
+###Sample Output
 
 00
 
